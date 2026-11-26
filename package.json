@@ -1,0 +1,14 @@
+
+{
+  "name": "skinvault-multiplayer",
+  "version": "1.0.0",
+  "description": "Skinvault Multiplayer - virtual case battles",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
